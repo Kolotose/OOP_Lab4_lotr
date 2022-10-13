@@ -49,4 +49,3 @@ public class GameManager {
             System.out.println("Everyone is dead");
     }
 }
-

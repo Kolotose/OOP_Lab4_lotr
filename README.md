@@ -2,8 +2,6 @@
 
 The repository contains the realisation of the following classes
 
-Implement the heroes game in text mode
-
 - class Character 
   - attributes: int power, in hp
   - methods: void kick(Character c), boolean isAlive()
